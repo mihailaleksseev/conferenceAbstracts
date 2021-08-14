@@ -1,2 +1,2 @@
-# -onferenceAbstracts
+# conferenceAbstracts
 В репозиторий добавляются конспекты наиболее интересных докладов по Java
